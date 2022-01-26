@@ -1,2 +1,2 @@
 # IBM-Capstone
-Includes proect carried out during IBM Capstone
+Includes proects carried out during IBM Capstone

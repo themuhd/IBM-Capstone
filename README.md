@@ -1,2 +1,2 @@
 # IBM-Capstone
-Includes proects carried out during IBM Capstone
+Includes projects carried out during IBM Data Science Capstone
